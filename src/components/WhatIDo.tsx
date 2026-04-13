@@ -87,11 +87,11 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>DEVELOP</h3>
+              <h3>💻 FULL STACK DEVELOPMENT</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                Build responsive and scalable web applications using React, Flask, and MongoDB.
+                Develop REST APIs and ensure smooth frontend-backend integration for real-world projects.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
@@ -128,11 +128,11 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>DESIGN</h3>
+              <h3>🤖 AI & COMPUTER VISION</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Develop intelligent systems using Python, YOLO, and OpenCV for real-time object detection and tracking.
+                Focused on building efficient and accurate AI-powered applications.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
