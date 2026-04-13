@@ -15,7 +15,7 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>B.Tech in Electronic and Computer Science Engineering</h4>
+                <h4>BE in Electronic and Computer Science Engineering</h4>
                 <h5>Shree L.R.Tiwari College Of Engineering, Mumbai University</h5>
               </div>
               <h3>2022 - 2026</h3>
